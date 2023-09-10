@@ -1,4 +1,3 @@
-![logo](https://github.com/Rahul03680/About_ME/blob/main/cutie.gif)
 # 💫 About Me:
 🔭 I’m currently a third year CSE student<br>👯 I’m looking to collaborate on various AI/ML & Cloud Projects.<br>🌱 I’m currently learning Web Automation, Cloud and deep learning<br>⚡ Fun fact about an engineering student is its choices, don't they?
 
@@ -32,4 +31,3 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Rahul Sharma) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
