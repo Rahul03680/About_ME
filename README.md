@@ -1,4 +1,4 @@
-![logo](https://github.com/Rahul03680/About_ME/blob/main/banner.png.gif)
+![logo](https://github.com/Rahul03680/About_ME/blob/main/cutie.gif)
 # 💫 About Me:
 🔭 I’m currently a third year CSE student<br>👯 I’m looking to collaborate on various AI/ML & Cloud Projects.<br>🌱 I’m currently learning Web Automation, Cloud and deep learning<br>⚡ Fun fact about an engineering student is its choices, don't they?
 
